@@ -1,1 +1,1 @@
-# Personal-Website-Attempt-1
+Attempting to create a personalized website
